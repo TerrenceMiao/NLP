@@ -1,9 +1,9 @@
 Natural Language Processing
----------------------------
+===========================
 
 Mind Map 
-========
+--------
 
-https://coggle.it/diagram/WhH1TeojMQABSdDw[Coggle Link]
+https://coggle.it/diagram/WhH1TeojMQABSdDw[Coggle Link, window="_blank"]
 
 image::https://embed.coggle.it/diagram/WhH1TeojMQABSdDw/450a323af72a39ed17f61e8380778c5f5aaf0e06622f936074866746b28dc596[Mind Map, 853, 480]
