@@ -6,4 +6,4 @@ Mind Map
 
 image::https://coggle-downloads.s3.amazonaws.com/71455b6e585d1e25740c4872159579ccb8ed3e46fd1bed9e28e8b6cedadadff6/NLP_Natural_Language_Processing.png[Mind Map, 900, 305]
 
-https://coggle.it/diagram/WhH1TeojMQABSdDw[Coggle Link]
+https://embed.coggle.it/diagram/WhH1TeojMQABSdDw/450a323af72a39ed17f61e8380778c5f5aaf0e06622f936074866746b28dc596[Coggle Link]
